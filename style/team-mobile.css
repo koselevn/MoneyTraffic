@@ -1,0 +1,373 @@
+/* header */
+
+.header-logo {
+    float: left;
+
+    width: 70px;
+    height: 53.61px;
+}
+
+.header-menu {
+    margin-top: 20px;
+    margin-right: 10px;
+    float: right;
+
+    width: 50px;
+    height: 10px;
+}
+
+header {
+    padding-bottom: 90px;
+}
+
+/* Title */
+
+.title-title{
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 47px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p{
+    margin-top: 5px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* General */
+
+.general-img-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 40px;
+}
+
+.general-p-1 {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 8px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.general-p-2-pink {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 28px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.general-p-2-green {
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 28px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.general-btn-img {
+    margin-right: 30px;
+    margin-bottom: 65px;
+
+    width: 182px;
+    height: 35.89px;
+
+    display: block;
+    margin-left: auto;
+}
+
+.general-absolute-btn-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 260px;
+    height: 55.61px;
+
+    margin-bottom: 70px;
+}
+
+/* Money */
+
+.money-absolute-div {
+    display: flex;
+
+    margin-left: 0px;
+}
+
+.money-p-1 {
+    margin-left: 25px;
+    margin-bottom: 10px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-p-2 {
+    margin-left: 25px;
+
+    width: 253px;
+    height: 24px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.money-dollar-img {
+    margin-top: -10px;
+    margin-left: 130px;
+
+    width: 19px;
+    height: 27px;
+}
+
+.money-p-3 {
+    margin-left: 25px;
+
+    width: 152px;
+    height: 75px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-p-3-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.money-img-right {
+    width: 128px;
+    height: 120.22px;
+
+    display: block;
+    margin-right: auto;
+    margin-left: -100px;
+
+    margin-top: 45px;
+}
+
+.money-p-end {
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* Team */
+
+.team-title-h {
+    margin-right: 15px;
+    margin-bottom: 2px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.team-title-p {
+    margin-right: 15px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.team-div-1 {
+    display: flex;
+    place-content: center;
+}
+
+.team-p-div {
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 15px;
+
+}
+
+.team-p-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.team-p-2 {
+    margin-right: 20px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.team-p-3 {
+    margin-right: 100px;
+    margin-bottom: 0px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.team-img-1 {
+    width: 128px;
+    height: 103px;
+
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.team-img-2 {
+    width: 128px;
+    height: 103px;
+
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.team-img-3 {
+    margin-top: -50px;
+    margin-left: 40px;
+
+    width: 158px;
+    height: 151px;
+}
+
+.team-div-2 {
+    display: flex;
+
+    place-content: center;
+}
+
+.team-div-2-p {
+    margin-top: 110px;
+    margin-left: -100px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 10px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}

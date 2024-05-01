@@ -1,0 +1,295 @@
+/* Header */
+
+.header-logo {
+    width: 80px;
+    height: 60.82px;
+}
+
+.header-menu {
+    margin-top: 25px;
+    margin-right: 15px;
+
+    width: 50px;
+    height: 10px;
+}
+
+/*Title*/
+
+.title-title {
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 71px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p-1 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+    width: 195px;
+    height: 49px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-p-1-span-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p-1-span-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.title-div {
+    float: right;
+    margin-right: 50px;
+}
+
+.title-p-2 {
+    margin-bottom: 0px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-p-2-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.dep-p-3 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    text-transform: uppercase;
+
+    margin-bottom: 13px;
+
+    color: #FFFFFF;
+}
+
+.title-btn-img {
+    width: 224px;
+    height: 50px;
+
+    margin-left: 100px;
+    margin-top: 65px;
+}
+
+/* Departaments dep */
+
+.dep-section {
+    margin-bottom: 50px;
+}
+
+.dep-hr {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.dep-p-div {
+    margin-left: 65px;
+}
+
+.dep-p-1 {
+    margin-bottom: 5px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-h-1 {
+    margin-bottom: 17px;
+
+    width: 400px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-p-2 {
+    margin-bottom: 25px;
+
+    width: 525px;
+    height: 110px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-leader-img {
+    width: 30px;
+    height: 30px;
+}
+
+.dep-p-4 {
+    margin-left: 5px;
+    margin-top: 7px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-btn-dep {
+    float: right;
+
+    width: 248px;
+    height: 50px;
+
+    margin-top: -45px;
+    margin-right: 60px;
+}
+
+/*Footer*/
+
+.footer-logo {
+    width: 200px;
+    height: 116px;
+}
+
+.footer-div-contact {
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.footer-div-1 {
+    display: flex;
+}
+
+.footer-contact-1 {
+    margin-right: 20px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2 {
+    margin-right: 50px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-list {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.footer-li-a-1,
+.footer-li-a-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 45px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    float: right;
+
+    margin-top: -30px;
+}
+
+.footer-copyright {
+    margin-left: 240px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    color: #393939;
+}

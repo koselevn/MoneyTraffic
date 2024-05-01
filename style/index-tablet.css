@@ -1,0 +1,867 @@
+/* Header */
+
+.header-logo{
+    width: 80px;
+    height: 60.82px;
+}
+
+.header-menu {
+    margin-top: 25px;
+    margin-right: 15px;
+
+    width: 50px;
+    height: 10px;
+}
+
+/*Title*/
+
+.title-title {
+    margin-bottom: 0px;
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 100px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+/* About */
+
+.about-div {
+    margin-top: 112px;
+    margin-left: 50px;
+}
+
+.about-title {
+    margin-bottom: 2px;
+
+    width: 300px;
+    height: 70px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 11px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.about-title-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 21px;
+    line-height: 36px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.about-p {
+    width: 353px;
+    height: 180px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.about-chamelion {
+    width: 400px;
+    height: 503px;
+
+    float: right;
+    margin-top: -350px;
+}
+
+/* Money */
+
+.money-img-1 {
+    width: 330px;
+    height: 264px;
+
+    margin-left: 30px;
+}
+
+.money-div {
+    margin-bottom: 15px;
+}
+
+.money-absolute-div {
+    position: absolute;
+    right: 0px;
+    margin-right: 30px;
+}
+
+.money-title {
+    width: 248px;
+    height: 70px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 45px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-title-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 29px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.money-img-2 {
+    margin-left: 120px;
+    margin-top: 30px;
+    width: 32px;
+    height: 49px;
+}
+
+.money-p {
+    width: 287px;
+    height: 78px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-a-but {
+    width: 180px;
+    height: 42.66px;
+
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+/* Work */
+
+.work-title-img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 100px;
+    margin-bottom: 20px;
+
+    width: 500px;
+    height: 78.97px;
+}
+
+.work-img {
+    width: 250px;
+    height: 291.2px;
+
+    margin-left: 50px;
+}
+
+.work-p-1 {
+    margin-top: 30px;
+    margin-left: 50px;
+
+    width: 333px;
+    height: 90px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.work-diamond-img {
+    width: 40px;
+    height: 46.96px;
+
+    margin-left: 340px;
+    margin-top: -15px;
+}
+
+.work-p-2 {
+    margin-top: 10px;
+    margin-left: 50px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-transform: uppercase;
+    letter-spacing: -0.1em;
+
+    color: #FFFFFF;
+}
+
+.work-p-2-span {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-transform: uppercase;
+    letter-spacing: -0.1em;
+
+    color: #C2E812;
+}
+
+.work-p-3 {
+    width: 276px;
+    height: 144px;
+
+    margin-left: 150px;
+    margin-top: 20px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.work-p-3-span {
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+/* Where */
+
+.where-h1-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 34px;
+
+    margin-left: 50px;
+
+
+    color: #FFFFFF;
+}
+
+.where-h1-2 {
+    margin-bottom: 23px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 124px;
+
+    margin-left: 240px;
+
+    color: #D71C5D;
+}
+
+.where-planet-img {
+    width: 402.01px;
+    height: 325.33px;
+}
+
+.where-p-i {
+    width: 315px;
+    height: 182px;
+
+    margin-left: 10px;
+    margin-top: 40px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
+
+.where-case-img {
+    margin-top: 165px;
+    margin-left: -175px;
+
+    width: 37px;
+    height: 32px;
+}
+
+.where-div-3 {
+    margin-top: 70px;
+    margin-left: 30px;
+
+    display: flex;
+}
+
+.where-div-3-title {
+    margin-bottom: 10px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.where-div-3-title-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.where-div-3-p {
+    width: 358px;
+    height: 116px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.where-div-3-1 {
+    margin-right: 15px;
+}
+
+.where-money-img {
+    display: none;
+}
+
+/* Why */
+
+
+.why-title-1 {
+    margin-top: 165px;
+    margin-left: 50px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 53px;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.why-title-2 {
+    margin-left: 200px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 93px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.why-div-1 {
+    margin-top: 30px;
+
+    display: block;
+}
+
+.why-img {
+    width: 370px;
+    height: 328.03px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 100px;
+}
+
+.why-p-div {
+
+    margin-left: 150px;
+}
+
+.why-p-3 {
+    width: 316px;
+    height: 165px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.why-div-for-img-vector{
+    display: flex;
+}
+
+.why-vector-img {
+    width: 50px;
+    height: 50.2px;
+
+    margin-top: 40px;
+    margin-left: 0px;
+}
+
+.why-and-title-1 {
+    margin-left: 50px;
+    margin-bottom: 5px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 33px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.why-and-title-span-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 33px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.why-and-title-2 {
+    margin-left: 230px;
+    margin-bottom: 5px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 33px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.why-and-title-span-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 33px;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.why-vector-2-img {
+    margin-left: 5px;
+    height: 30px;
+    width: 30px;
+}
+
+.why-end-p {
+    margin-left: 230px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: -0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* Vertical */
+
+.vertical-title-div {
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.vertical-title-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 59px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.vertical-title-1-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 59px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.vertical-title-2 {
+    margin-left: 250px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.vertical-title-2-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.vertical-li {
+    margin-right: 30px;
+}
+
+.vertical-img {
+    width: 210px;
+    height: 234.86px;
+}
+
+.vertical-end-div {
+    display: flex;
+
+    margin-top: 60px;
+}
+
+.vertical-call-img{
+    width: 225px;
+    height: 53.32px;
+
+    margin-left: 50px;
+}
+
+.vertical-end-p {
+    /* width: 394px;
+    height: 86px; */
+
+    margin-left: 70px;
+    margin-right: 50px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.vertical-end-p-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+/* Time */
+
+.time-title-div {
+    margin-top: 100px;
+    text-align: right;
+    margin-right: 50px;
+}
+
+.time-title-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 53px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.time-title-1-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 53px;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.time-title-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 83px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.time-title-2-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 53px;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.time-title-img {
+    height: 40px;
+    width: 40px;
+
+    margin-top: 50px;
+}
+
+.time-title-p {
+    margin-top: 90px;
+    margin-right: 180px;
+    margin-bottom: 110px;
+}
+
+.time-list-1 {
+    margin-bottom: 80px;
+}
+
+.time-li-1 {
+    margin-right: 70px;
+}
+
+.time-img {
+    width: 300px;
+    height: 300px;
+}
+
+/* We */
+
+.we-title-1 {
+    margin-left: -100px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.we-title-1-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.we-title-2 {
+    margin-left: 200px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.we-title-2-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.we-list {
+    margin-top: 50px;
+}
+
+.we-li {
+    display: flex;
+    place-content: center;
+
+    margin-bottom: 0px;
+}
+
+.we-img-we {
+    display: none;
+}
+
+.we-img-it {
+    width: 265px;
+    height: 143.32px;
+}
+
+/*Footer*/
+
+.footer-logo {
+    width: 200px;
+    height: 116px;
+}
+
+.footer-div-contact {
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.footer-div-1 {
+    display: flex;
+}
+
+.footer-contact-1 {
+    margin-right: 20px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2 {
+    margin-right: 50px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-list {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.footer-li-a-1,
+.footer-li-a-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 45px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    float: right;
+
+    margin-top: -30px;
+}
+
+.footer-copyright {
+    margin-left: 240px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    color: #393939;
+}

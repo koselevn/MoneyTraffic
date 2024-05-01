@@ -1,0 +1,412 @@
+/* reset */
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Body */
+
+body {
+    background-color: #000000;
+
+}
+
+
+.body-box {
+    display: grid;
+    place-content: center;
+}
+
+
+/* Header */
+
+header {
+    padding-bottom: 130px;
+}
+
+.header-logo {
+    float: left;
+
+    width: 171px;
+    height: 130px;
+}
+
+.header-menu {
+    margin-top: 45px;
+    margin-right: 45px;
+    float: right;
+}
+
+/* header */
+
+.title-title{
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 178px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p{
+    margin-top: 60px;
+    margin-left: 520px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* General */
+
+.general-img-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 80px;
+}
+
+.general-p-1{
+    margin-left: 70px;
+    margin-bottom: 30px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    text-align: left;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.general-p-2-pink{
+    margin-left: 350px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    
+    text-align: left;
+    text-transform: uppercase;
+    
+    color: #D71C5D;
+}
+
+.general-p-2-green {
+    margin-left: 350px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+
+    text-align: left;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.general-btn-img{
+    margin-right: 60px;
+    margin-bottom: 125px;
+    
+    width: 490px;
+    height: 85px;
+
+    display: block;
+    margin-left: auto;
+}
+
+.general-absolute-btn-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 734px;
+    height: 157px;
+
+    margin-bottom: 135px;
+}
+
+/* Money */
+
+.money-absolute-div{
+    display: flex;
+}
+
+.money-p-1{
+    margin-left: 100px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-p-2{
+    margin-left: 280px;
+
+    width: 641px;
+    height: 80px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.money-dollar-img{
+    margin-top: -40px;
+    margin-left: 790px;
+}
+
+.money-p-3{
+    margin-left: 100px;
+
+    width: 653px;
+    height: 60px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-p-3-span{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: uppercase;
+    
+    color: #C2E812;
+}
+
+.money-img-right{
+    width: 442px;
+    height: 437px;
+
+    display: block;
+    margin-right: auto;
+    margin-left: 100px;
+
+    margin-top: -50px;
+}
+
+.money-p-end{
+    margin-left: 260px;
+    margin-top: 50px;
+    margin-bottom: 65px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* Team */
+
+.team-title-h{
+    margin-right: 160px;
+    margin-bottom: 20px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 68px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.team-title-p{
+    margin-right: 160px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.team-div-1{
+    display: flex;
+    place-content: center;
+}
+
+.team-p-div{
+    margin-top: 60px;
+    margin-left: 170px;
+}
+
+.team-p-1{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.team-p-2{
+    margin-right: 190px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-align: right;
+
+    color: #D71C5D;
+}
+
+.team-p-3 {
+    margin-right: 460px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    text-transform: uppercase;
+    text-align: right;
+
+    color: #C2E812;
+}
+
+.team-img-1{
+    width: 529px;
+    height: 469px;
+}
+
+.team-img-2 {
+    width: 529px;
+    height: 469px;
+}
+
+.team-img-3{
+    margin-top: -200px;
+
+    width: 444.62px;
+    height: 409.65px;
+}
+
+.team-div-2{
+    display: flex;
+
+    place-content: center;
+}
+
+.team-div-2-p{
+    margin-top: 100px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* Footer */
+
+.footer-img{
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

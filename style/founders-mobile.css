@@ -1,0 +1,361 @@
+/* header */
+
+.header-logo {
+    float: left;
+
+    width: 70px;
+    height: 53.61px;
+}
+
+.header-menu {
+    margin-top: 20px;
+    margin-right: 10px;
+    float: right;
+
+    width: 50px;
+    height: 10px;
+}
+
+header {
+    padding-bottom: 90px;
+}
+
+/*Title*/
+
+.title-title {
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.photo-main-img {
+    display: none;
+}
+
+/* Inf */
+
+.nikita{
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.anton{
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inf-div {
+    display: block;
+    justify-content: center;
+    place-content: center;
+
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+.inf-li-1 {
+    margin-right: 0px;
+    justify-content: center;
+}
+
+.inf-li {
+    display: block;
+    margin-bottom: 40px;
+}
+
+/* .inf-p-pink {
+    margin-top: 5px;
+    margin-left: 10px;
+
+    width: 421px;
+    height: 54px;
+
+    width: 10px;
+    height: 46px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+} */
+
+/* .inf-p-pink-i {
+    margin-top: 15px;
+    margin-left: 10px;
+
+    width: 421px;
+    height: 54px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+} */
+
+.inf-p-green {
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    width: auto;
+    height: auto;
+
+    text-align: center;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.inf-p-green-i {
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    width: auto;
+    height: auto;
+
+    text-align: center;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.inf-p-green-i-1 {
+    margin-top: 15px;
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    width: auto;
+    height: auto;
+
+    text-align: center;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.inf-items-img {
+    display: none;
+}
+
+/* Infa */
+
+.infa-img {
+    display: none;
+}
+
+.anna{
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.infa-div {
+    margin-bottom: 130px;
+}
+
+.infa-p {
+    margin-bottom: 50px;
+
+    margin-right: 10px;
+    margin-left: 10px;
+
+    text-align: center;
+    
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 17px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+/* Footer*/
+
+.footer-div-1 {
+    display: flex;
+}
+
+.footer-logo {
+    width: 75px;
+    height: 39px;
+}
+
+.footer-div-contact {
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.footer-contact-1 {
+    margin-right: 30px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 9px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-1:hover {
+    color: #D71C5D;
+}
+
+.footer-contact-2 {
+    margin-right: 0px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 9px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2:hover {
+    color: #C2E812;
+}
+
+.footer-list {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-li-a-1,
+.footer-li-a-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-li-a-1:hover {
+    color: #C2E812;
+}
+
+.footer-li-a-2:hover {
+    color: #D71C5D;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    margin-left: 0px;
+    margin-top: -10px;
+    margin-right: 20px;
+}
+
+.footer-contact-a-div-2-n1 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 7px;
+    text-transform: uppercase;
+
+    margin-right: 5px;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-a-div-2-n1:hover {
+    color: #C2E812;
+}
+
+.footer-contact-a-div-2-n2 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 7px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-a-div-2-n2:hover {
+    color: #D71C5D;
+}
+
+.footer-copyright {
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4px;
+    line-height: 6px;
+
+    text-transform: uppercase;
+
+    color: #393939;
+}

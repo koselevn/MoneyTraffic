@@ -1,0 +1,261 @@
+/* Header */
+
+.header-logo {
+    width: 80px;
+    height: 60.82px;
+}
+
+.header-menu {
+    margin-top: 25px;
+    margin-right: 15px;
+
+    width: 50px;
+    height: 10px;
+}
+
+/*Title*/
+
+.title-title {
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 71px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p-1 {
+    margin-top: 30px;
+    margin-right: 20px;
+    float: right;
+
+    width: 407px;
+    height: 74px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-p-2 {
+    margin-top: 135px;
+    margin-left: 75px;
+    margin-bottom: 55px;
+
+    width: 432px;
+    height: 102px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-span-grren {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-span-pink {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+/* Jobs */
+
+.jobs-hr {
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 35px;
+}
+
+.jobs-title {
+    margin-left: 75px;
+    margin-bottom: 10px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.jobs-p {
+    margin-left: 75px;
+    margin-bottom: 45px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.jobs-img {
+    display: block;
+
+    margin-bottom: 45px;
+
+    width: 219px;
+    height: 50px;
+
+    margin-right: 70px;
+
+    margin-left: auto;
+}
+
+/* No */
+
+.no{
+    margin-top: 100px;
+}
+
+.no-p {
+    /* width: 814px; */
+    margin-left: 140px;
+    margin-right: 140px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.no-img {
+    display: block;
+
+    width: 200px;
+    height: 50px;
+
+    margin-left: auto;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 500px;
+}
+
+/*Footer*/
+
+footer{
+    margin-top: 100px;
+}
+
+.footer-logo {
+    width: 200px;
+    height: 116px;
+}
+
+.footer-div-contact {
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.footer-div-1 {
+    display: flex;
+}
+
+.footer-contact-1 {
+    margin-right: 20px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2 {
+    margin-right: 50px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-list {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.footer-li-a-1,
+.footer-li-a-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 45px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    float: right;
+
+    margin-top: -30px;
+}
+
+.footer-copyright {
+    margin-left: 240px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    color: #393939;
+}

@@ -1,0 +1,377 @@
+/* header */
+
+.header-logo {
+    float: left;
+
+    width: 70px;
+    height: 53.61px;
+}
+
+.header-menu {
+    margin-top: 20px;
+    margin-right: 10px;
+    float: right;
+
+    width: 50px;
+    height: 10px;
+}
+
+header {
+    padding-bottom: 90px;
+}
+
+/*Title*/
+
+.title-title {
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 47px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p-1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    width: 115px;
+    height: 31px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-p-1-span-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p-1-span-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.title-div {
+    float: right;
+    margin-right: 20px;
+}
+
+.title-p-2 {
+    margin-bottom: 0px;
+
+    /* width: 87px;
+    height: 30px; */
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-p-2-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.title-p-3 {
+    display: none;
+}
+
+.title-btn-img {
+    width: 107px;
+    height: 24px;
+
+    margin-left: 15px;
+    margin-top: 37px;
+}
+
+/* Departaments dep */
+
+.dep-section {
+    margin-bottom: 50px;
+}
+
+.dep-hr {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.dep-p-div {
+    margin-left: 30px;
+}
+
+.dep-p-1 {
+    margin-bottom: 2px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7px;
+    line-height: 10px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-h-1 {
+    margin-bottom: 3px;
+
+    width: 208px;
+    height: 19px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-p-2 {
+    margin-bottom: 10px;
+
+    width: 241px;
+    height: 55px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-p-3{
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 10px;
+    text-transform: uppercase;
+
+    margin-bottom: 5px;
+
+    color: #FFFFFF;
+}
+
+.dep-leader-img {
+    width: 15px;
+    height: 15px;
+}
+
+.dep-p-4 {
+    margin-left: 3px;
+    margin-top: 4px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7px;
+    line-height: 8px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-btn-dep {
+    float: right;
+
+    width: 124px;
+    height: 24px;
+
+    margin-top: -20px;
+    margin-right: 25px;
+}
+
+/* Footer*/
+
+.footer{
+    margin-top: 100px
+}
+
+.footer-div-1 {
+    display: flex;
+}
+
+.footer-logo {
+    width: 75px;
+    height: 39px;
+}
+
+.footer-div-contact {
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.footer-contact-1 {
+    margin-right: 30px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 9px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-1:hover {
+    color: #D71C5D;
+}
+
+.footer-contact-2 {
+    margin-right: 0px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 9px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2:hover {
+    color: #C2E812;
+}
+
+.footer-list {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-li-a-1,
+.footer-li-a-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-li-a-1:hover {
+    color: #C2E812;
+}
+
+.footer-li-a-2:hover {
+    color: #D71C5D;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    margin-left: 0px;
+    margin-top: -10px;
+    margin-right: 20px;
+}
+
+.footer-contact-a-div-2-n1 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 7px;
+    text-transform: uppercase;
+
+    margin-right: 5px;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-a-div-2-n1:hover {
+    color: #C2E812;
+}
+
+.footer-contact-a-div-2-n2 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 6px;
+    line-height: 7px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-a-div-2-n2:hover {
+    color: #D71C5D;
+}
+
+.footer-copyright {
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4px;
+    line-height: 6px;
+
+    text-transform: uppercase;
+
+    color: #393939;
+}

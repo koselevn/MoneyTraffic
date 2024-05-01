@@ -1,0 +1,439 @@
+/* reset */
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Body */
+
+body {
+    background-color: #000000;
+
+}
+
+
+.body-box {
+    display: grid;
+    place-content: center;
+}
+
+
+/* Header */
+
+header {
+    padding-bottom: 130px;
+}
+
+.header-logo {
+    float: left;
+
+    width: 171px;
+    height: 130px;
+}
+
+.header-menu {
+    margin-top: 45px;
+    margin-right: 45px;
+    float: right;
+}
+
+/*Title*/
+
+.title-title{
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150px;
+    line-height: 178px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p-1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    width: 464px;
+    height: 117px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 57px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-p-1-span-1{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 57px;
+    text-transform: uppercase;
+    
+    color: #C2E812;
+}
+
+.title-p-1-span-2{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 57px;
+    text-transform: uppercase;
+    
+    color: #D71C5D;
+}
+
+.title-div{
+    float: right;
+    margin-right: 150px;
+}
+
+.title-p-2{
+    margin-bottom: 2px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.title-p-2-span{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    
+    color: #D71C5D;
+}
+
+.title-p-3{
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title-p-3-span{
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    text-transform: uppercase;
+        
+    color: #D71C5D;
+}
+
+.title-btn-img{
+    width: 346px;
+    height: 82px;
+
+    margin-left: 150px;
+    margin-top: 220px;
+}
+
+/* Departaments dep */
+
+.dep-section{
+    margin-bottom: 100px;
+}
+
+.dep-hr{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 200px;
+    margin-bottom: 45px;
+}
+
+.dep-p-div{
+    margin-left: 105px;
+}
+
+.dep-p-1{
+    margin-bottom: 10px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-h-1{
+    margin-bottom: 40px;
+
+    width: 393px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-p-2{
+    margin-bottom: 40px;
+
+    width: 778px;
+    height: 180px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-p-3 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+
+    margin-bottom: 18px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-div-leader{
+    display: flex;
+}
+
+.dep-leader-img{
+    width: 70px;
+    height: 69px;
+}
+
+.dep-p-4{
+    margin-left: 10px;
+    margin-top: 20px;
+
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.dep-btn-dep{
+    float: right;
+
+    margin-top: -70px;
+    margin-right: 70px;
+}
+
+/* Footer*/
+
+.footer{
+    margin-top: 300px;
+}
+
+.footer-div-1 {
+    display: flex;
+}
+
+.footer-logo {
+    width: 402px;
+    height: 235px;
+}
+
+.footer-div-contact {
+    margin-top: 100px;
+    margin-left: 130px;
+}
+
+.footer-contact-1 {
+    margin-right: 50px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-1:hover {
+    color: #D71C5D;
+}
+
+.footer-contact-2 {
+    margin-right: 50px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-2:hover {
+    color: #C2E812;
+}
+
+.footer-list {
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.footer-li-a-1,
+.footer-li-a-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 55px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-li-a-1:hover {
+    color: #C2E812;
+}
+
+.footer-li-a-2:hover {
+    color: #D71C5D;
+}
+
+.footer-contact-2-div {
+    display: flex;
+
+    margin-top: -30px;
+    margin-right: 50px;
+
+    float: right;
+}
+
+.footer-contact-a-div-2-n1 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    margin-right: 30px;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-a-div-2-n1:hover {
+    color: #C2E812;
+}
+
+.footer-contact-a-div-2-n2 {
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.footer-contact-a-div-2-n2:hover {
+    color: #D71C5D;
+}
+
+.footer-copyright {
+    /* margin-left: 830px; */
+    margin-top: 20px;
+    margin-bottom: 56px;
+
+    text-align: right;
+    margin-right: 50px;
+
+    font-family: 'Rubik Mono One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-transform: uppercase;
+
+    color: #393939;
+}

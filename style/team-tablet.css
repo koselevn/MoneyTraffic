@@ -1,0 +1,362 @@
+/* Header */
+
+.header-logo {
+    width: 80px;
+    height: 60.82px;
+}
+
+.header-menu {
+    margin-top: 25px;
+    margin-right: 15px;
+
+    width: 50px;
+    height: 10px;
+}
+
+/* Title */
+
+.title-title{
+    font-family: 'Rubik Wet Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 71px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.title-p{
+    margin-top: 0px;
+    margin-left: 0px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* General */
+
+.general-img-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-bottom: 80px;
+}
+
+.general-p-1 {
+    margin-left: 50px;
+    margin-bottom: 15px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.general-p-2-pink {
+    margin-left: 180px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    text-align: left;
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.general-p-2-green {
+    margin-left: 180px;
+    margin-bottom: 40px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    text-align: left;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.general-btn-img {
+    margin-right: 60px;
+    margin-bottom: 65px;
+
+    width: 236px;
+    height: 50px;
+
+    display: block;
+    margin-left: auto;
+}
+
+.general-absolute-btn-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 434px;
+    height: 92.83px;
+
+    margin-bottom: 70px;
+}
+
+/* Money */
+
+.money-absolute-div {
+    display: flex;
+}
+
+.money-p-1 {
+    margin-left: 35px;
+    margin-bottom: 10px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-p-2 {
+    margin-left: 35px;
+
+    width: 408px;
+    height: 50px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.money-dollar-img {
+    margin-top: -20px;
+    margin-left: 365px;
+
+    width: 19px;
+    height: 27px;
+}
+
+.money-p-3 {
+    margin-left: 35px;
+
+    width: 274px;
+    height: 125px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.money-p-3-span {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.money-img-right {
+    width: 237px;
+    height: 221px;
+
+    display: block;
+    margin-right: auto;
+    margin-left: 20px;
+
+    margin-top: 0px;
+}
+
+.money-p-end {
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 35px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 43px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* Team */
+
+.team-title-h {
+    margin-right: 25px;
+    margin-bottom: 0px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.team-title-p {
+    margin-right: 25px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.team-div-1 {
+    display: flex;
+    place-content: center;
+}
+
+.team-p-div {
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-right: 25px;
+    
+}
+
+.team-p-1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.team-p-2 {
+    margin-right: 80px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #D71C5D;
+}
+
+.team-p-3 {
+    margin-right: 240px;
+    margin-bottom: 0px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+
+    text-align: right;
+
+    text-transform: uppercase;
+
+    color: #C2E812;
+}
+
+.team-img-1 {
+    width: 218px;
+    height: 221px;
+}
+
+.team-img-2 {
+    width: 315px;
+    height: 289px;
+
+    margin-left: 70px;
+}
+
+.team-img-3 {
+    margin-top: -150px;
+    margin-left: 50px;
+
+    width: 259px;
+    height: 246px;
+}
+
+.team-div-2 {
+    display: flex;
+
+    place-content: center;
+}
+
+.team-div-2-p {
+    margin-top: 50px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+/* Footer */
+
+.footer-img {
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,147 @@
+/* reset */
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Body */
+
+body {
+    background-color: #000000;
+
+}
+
+/* Header */
+
+.header-img{
+    float: right;
+    margin-top: -140px;
+    margin-right: 80px;
+}
+
+/* Menu */
+
+.menu-list{
+    margin-top: 190px;
+    margin-left: 145px;
+    margin-bottom: 215px;
+}
+
+.menu-li{
+    margin-bottom: 20px;
+}
+
+.menu-li-a-1{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.menu-li-a-1:hover{
+    color: #C2E812;
+}
+
+.menu-li-a-2 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79px;
+    text-transform: uppercase;
+
+    transition: all 0.4s;
+
+    color: #FFFFFF;
+}
+
+.menu-li-a-2:hover{
+    color: #D71C5D;
+}
+
+/* Social */
+
+.social-list{
+    margin-left: 145px;
+
+    display: flex;
+}
+
+.social-li{
+    margin-right: 45px;
+    margin-bottom: 150px;
+}
+
+.social-li-a-1{
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+
+    transition: all 0.4s;
+
+    color: #D71C5D;
+}
+
+.social-li-a-1:hover{
+    color: #b10642;
+}
+
+.social-li-a-2{
+    font-family: 'Philosopher';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+
+    transition: all 0.4s;
+
+    color: #C2E812;
+}
+
+.social-li-a-2:hover{
+    color: #829d08;
+}
